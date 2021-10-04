@@ -1,5 +1,9 @@
 # Data_Science
 
+<p align="center">
+  <img src="What_is_Data_Science.jpg" >
+</p>
+
 
 # Stephania Vellinho
 <sub>**Cientista de Dados Júnior**</sub>
